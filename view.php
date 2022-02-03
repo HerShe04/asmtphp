@@ -10,7 +10,7 @@
                        <div class="row">
                             <div class="col-6"><h5>Contacts</h5></div>
                             <div class="col-6">
-                                <a href="form.php" class="btn btn-success" style="float:right;">Add Contact</a>
+                                <a href="form.php" class="btn btn-dark" style="float:right;">Add Contact</a>
                             </div>
                         </div>
                         <hr/>

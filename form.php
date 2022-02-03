@@ -12,7 +12,7 @@
                         <div class="row">
                             <div class="col-6"><h5>Contact Form</h5></div>
                             <div class="col-6">
-                                <a href="view.php" class="btn btn-success" style="float:right;">View Contact</a>
+                                <a href="view.php" class="btn btn-dark" style="float:right;">View Contact</a>
                             </div>
                         </div>
                         <hr/>
@@ -29,7 +29,7 @@
                             <span class="input-group-text" id="basic-addon1">Email</span>
                              <input type="text" class="form-control" name="email" placeholder="Email" aria-label="Username" aria-describedby="basic-addon1">
                           </div>
-                          <button type="submit" class="btn btn-success">Save</button>
+                          <button type="submit" class="btn btn-dark">Save</button>
                         </form>
 
                         <?php include('include/msg.php'); ?>
