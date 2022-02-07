@@ -1,6 +1,6 @@
 <?php
- $a = 10; //varibale
- define('pi',3.14); //constatnt
+ $a = 10; 
+ define('pi',3.14); 
 
 $x = 10;
 $y = 30;
